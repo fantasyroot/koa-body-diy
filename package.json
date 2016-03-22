@@ -1,0 +1,28 @@
+{
+  "name": "koa-body-diy",
+  "version": "0.0.1",
+  "description": "Enhance koa-body, let qs configurable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuanto/koa-body-diy.git"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "liuanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuanto/koa-body-diy/issues"
+  },
+  "homepage": "https://github.com/liuanto/koa-body-diy#readme",
+  "dependencies": {
+    "co-body": "*"
+  },
+  "devDependencies": {
+    "koa": "*"
+  }
+}
